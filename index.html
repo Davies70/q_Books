@@ -51,28 +51,31 @@
           </li>
           <li class="subhead">Genres</li>
           <li>
-            <a class="nav scrolltoview" href="#fiction"
-              ><span class="icon">👽</span>Fiction</a
+            <a class="nav scrolltoview" href="#fiction">Fiction</a
             >
           </li>
           <li>
-            <a class="nav scrolltoview" href="#poetry"
-              ><span class="icon">🌈</span>Poetry</a
+            <a class="nav scrolltoview" href="#poetry">Poetry</a
             >
           </li>
           <li>
-            <a class="nav scrolltoview" href="#fantasy"
-              ><span class="icon">🌺</span>Fantasy</a
+            <a class="nav scrolltoview" href="#fantasy">Fantasy</a
             >
           </li>
           <li>
-            <a class="nav scrolltoview" href="#romance"
-              ><span class="icon">💕</span>Romance</a
-            >
+            <a class="nav scrolltoview" href="#romance"> Romance</a>
           </li>
-          <li class="nav trigger"><span class="icon">✨</span>More</li>
+          <li class="nav trigger">More</li>
         </ul>
       </nav>
+      <button
+              id="installPWA"
+              class="info"
+              onclick="installPWA()"
+              style="margin-left: 24px; padding: 8px 16px;"
+            >
+              <img src="icons/pwalogo.svg" alt="PWA" style="height: 16px;" />
+      </button>
       <div class="spacer"></div>
       <label class="theme-switch" for="checkbox" title="Night mode">
         <input type="checkbox" id="checkbox" aria-label="Night mode" />
@@ -89,14 +92,6 @@
               placeholder="Enter book title, author name, or genre"
               aria-label="Search books"
             />
-            <button
-              id="installPWA"
-              class="info"
-              onclick="installPWA()"
-              style="margin-left: 24px; padding: 8px 16px;"
-            >
-              <img src="icons/pwalogo.svg" alt="PWA" style="height: 16px;" />
-            </button>
           </div>
           <div class="list-book search">
             <div class="prompt">Enter a search term</div>
