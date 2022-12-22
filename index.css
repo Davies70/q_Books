@@ -18,7 +18,7 @@
   box-sizing: border-box;
   outline: 0;
   border: 0;
-  font-family: Montserrat, "Roboto", "Noto", sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 ::-webkit-#bar {
@@ -268,10 +268,11 @@ article {
   background-color: transparent;
   color: var(--font-color);
   text-overflow: ellipsis;
-  font-weight: 600;
+  font-weight: 200;
   font-size: 16px;
   transition: all 0.2s;
   flex-grow: 1;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .section-title {
@@ -436,7 +437,6 @@ article {
   cursor: pointer;
 }
 
-.search,
 .prev {
   display: none;
 }
