@@ -1,5 +1,29 @@
 {
-  "dependencies": {
-    "eslint": "^8.30.0"
-  }
+  "name": "qbooks",
+  "version": "1.0.0",
+  "description": "A book finder app for books on Google Books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davies70/q_Books.git"
+  },
+  "keywords": [
+    "books",
+    "ebooks",
+    "Google",
+    "Books",
+    "book",
+    "finder",
+    "web",
+    "app"
+  ],
+  "author": "Davies Ajayi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davies70/q_Books/issues"
+  },
+  "homepage": "https://github.com/Davies70/q_Books#readme"
 }

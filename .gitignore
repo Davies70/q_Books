@@ -21,6 +21,7 @@
 *.rar
 *.tar
 *.zip
+eslint
 
 # Logs and databases #
 ######################
