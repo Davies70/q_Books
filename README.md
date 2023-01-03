@@ -5,20 +5,17 @@ A web app to find books on Google Books
 ## Description
 
 The web app comes with a search feature that allows you to search books on Google Books in real time. Search can be performed using book titles, author names, genre. The web app also includes a day and night mode feature.
+
+## Link
+
+https://bejewelled-chebakia-fe336c.netlify.app/
+
 ## Getting Started
 
-### Dependencies
-
-
-### Installing
-
-
-### Executing program
-
-
-## Help
-
-
+* Find books in real-time with search feature
+* Use dashboard to access new books, bestsellers, best authors, and hot picks of the day
+* Explore a long list of genre
+* toggle day and night mode
 
 ## Author
 Davies Ajayi
@@ -26,12 +23,4 @@ Davies Ajayi
 
 ## Version History
 
-* 0.1
-    * Initial Release
-
-## License
-
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
+* 1.00
