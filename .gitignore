@@ -22,6 +22,8 @@
 *.tar
 *.zip
 eslint
+.eslintrc.js
+package-lock.json
 
 # Logs and databases #
 ######################
