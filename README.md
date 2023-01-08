@@ -8,7 +8,7 @@ The web app comes with a search feature that allows you to search books on Googl
 
 ## Link
 
-https://bejewelled-chebakia-fe336c.netlify.app/
+https://qbooksforyou.netlify.app/
 
 ## Getting Started
 
