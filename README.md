@@ -6,6 +6,11 @@ A web app to find books on Google Books
 
 The web app comes with a search feature that allows you to search books on Google Books in real time. Search can be performed using book titles, author names, genre. The web app also includes a day and night mode feature.
 
+## Screenshots
+
+![image](./icons/q_book_day_mode.JPG)
+![image](./icons/qbook_night.JPG)
+
 ## Link
 
 https://qbooksforyou.netlify.app/
