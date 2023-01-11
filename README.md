@@ -14,6 +14,8 @@ The web app comes with a search feature that allows you to search books on Googl
 ## Link
 
 https://qbooksforyou.netlify.app/
+[Read about qBooks](https://www.linkedin.com/pulse/qbooks-find-books-real-time-davies-ajayi/)
+
 
 ## Getting Started
 
@@ -24,7 +26,7 @@ https://qbooksforyou.netlify.app/
 
 ## Author
 Davies Ajayi
-
+Find me on [LinkedIn](https://www.linkedin.com/in/davies-ajayi-6133b616b/?originalSubdomain=de)
 
 ## Version History
 
